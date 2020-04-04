@@ -1,0 +1,128 @@
+
+
+.logo{
+
+    height: 40px;
+    
+    padding-left: 30px;
+}
+.nav{
+    padding-bottom: 80px;
+}
+.navbar{
+
+    background-color: rgb(184, 111, 28);
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+    
+}
+
+.navbar-nav li{
+
+    padding: 0 15px;
+}
+.navbar-nav li a:hover{
+    color:white!important;
+    
+}
+.carousel-caption{
+
+    top :50%;
+}
+
+.carousel-caption h5{
+
+    color: rgb(10, 72, 153);
+    
+}
+#about-us{
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.skill-bar p {
+
+    margin-bottom: 2px;
+}
+.progress{
+    margin-bottom: 20px;
+    border-radius: 16px;
+    background-color: rgb(184, 111, 28);
+}
+
+#services h2{
+    padding-top: 30px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    font-style: italic;
+    text-decoration: underline;
+    
+    color:rgb(184, 111, 28) ;
+
+}
+
+#services{
+    
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("services.jpg");
+    background-attachment: fixed;
+    color: rgb(184, 111, 28);
+    background-size: cover;
+}
+.hover:hover{
+    background-color: blue;
+}
+#services h3{
+    height: 50px;
+    font-size: 30px;
+    
+    text-align: center;
+    padding-bottom: 10px;
+}
+#services p{
+
+    font-size: 15px;
+}
+u{
+    padding-top: 10px;
+}
+
+.icon{
+    
+    color: rgb(21, 255, 0);
+    height: 50px;
+    width: 70px;
+    border: solid rgb(184, 111, 28) 3px;
+    border-radius: 25px;
+    padding-top: 15px;
+    margin-bottom: 10px;
+
+}
+.image1{
+    height: 200px;
+    width: 200px;
+}
+#team h2{
+
+    text-align: center;
+    padding-top: 50px;
+    color:rgb(253, 2, 2);
+    
+    padding-bottom: 80px;
+    text-decoration: underline;
+}
+.image h3{
+    
+    color:rgb(253, 2, 2);
+    
+}
+#team{
+    background-color:rgb(184, 111, 28);
+}
+.tapu{
+    height: 100px;
+    color: teal;
+    background-color:rgb(187, 255, 1);
+    padding-top: 150px;
+}
